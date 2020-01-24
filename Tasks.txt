@@ -1,0 +1,6 @@
+class_1: h/w - Prove:
+			1. E[X-E[X]]^2 = E[X^2]-(E[X])^2
+			2. D[aX+bY] = a^2*X+b^2*Y+2ab*cov(X,Y)
+
+class_2: h/w - 1. Характеристики розподілів
+		  2. Murphy ch. 2: probabilistic approach to model creation (bayesian\
